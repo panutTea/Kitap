@@ -10,4 +10,22 @@ This game allows for designing the game's notes through writing a beat map in te
 
 You can view examples in the [beatmaps](https://github.com/panutTea/Kitap/tree/main/beatmaps) folder and compare them within the game.
 
+:warning::warning: **This game was developed for educational purposes only.** :warning::warning:
+
+Thanks to all the songs: 
+- หวง (you're mine) - เอิ๊ต ภัทรวี
+- สวัสดี! (Sawasdee) - encX
+- ท้าเล (Ta Lay) - THE TOYS 
+
 ## Example Scenes
+
+- ### Home Menu Page
+![Home Menu Page](https://github.com/panutTea/Kitap-Game-Project/blob/main/example_scenes/menu.png)
+- ### Song Selecting Page
+![Song Selecting Page](https://github.com/panutTea/Kitap-Game-Project/blob/main/example_scenes/selecting.png)
+- ### Gameplay Page
+![Gameplay Page](https://github.com/panutTea/Kitap-Game-Project/blob/main/example_scenes/ingame.png)
+- ### Scoring Page
+![Scoring Page](https://github.com/panutTea/Kitap-Game-Project/blob/main/example_scenes/scoring.png)
+
+
